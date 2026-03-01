@@ -8,7 +8,7 @@ Toot from Alfred. A simple Alfred workflow to post to Mastodon.
 
 ## Installation
 
-Download `Trumpet.alfredworkflow` from the [release](./release) folder and double-click to install.
+Download `Trumpet.alfredworkflow` from the [Releases](https://github.com/zengyun-hacker/Trumpet/releases/latest) page and double-click to install.
 
 ## Usage
 

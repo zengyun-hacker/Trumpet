@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" width="128" height="128" alt="Trumpet">
+</p>
+
 # Trumpet
 
 Toot from Alfred. A simple Alfred workflow to post to Mastodon.
